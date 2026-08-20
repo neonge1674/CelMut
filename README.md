@@ -1,5 +1,7 @@
 This is a library for operating on cells
 
+Please just download the CelMut.py file it should work just fine
+
 ===DOCUMENTATION===
 
 Cell:
